@@ -25,6 +25,7 @@
   "dependencies": {
     "@types/node": "^9.4.6",
     "eslint-config-standard-jsx": "^4.0.2",
+    "express": "^4.16.2",
     "typescript-eslint-parser": "^13.0.0"
   },
   "devDependencies": {
